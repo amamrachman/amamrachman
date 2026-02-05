@@ -1,5 +1,9 @@
-## 👋 About Me<br><br>Hi, I'm a Fullstack Developer who enjoys building web applications with a strong focus on performance, clean architecture, and maintainable code.<br><br>I mainly work with:<br>- **Frontend:** Next.js (App Router), React, TypeScript  <br>- **Backend:** Laravel  <br><br>I prefer implementing features **manually without relying on many third-party libraries**, leveraging built-in framework features as much as possible. I care deeply about:<br>- Code readability & explicit structure  <br>- Database performance & query optimization  <br>- Scalable and maintainable application design  <br><br>Currently, I'm continuously improving my skills in fullstack development and system design.<br>
+## 👋 About Me
 
+Fullstack Developer specializing in **Next.js (App Router), React, TypeScript, and Laravel**.  
+Focused on building **clean, performant, and maintainable web applications** with minimal dependencies.
+
+Strong attention to **explicit code structure**, **database optimization**, and **scalable architecture**.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amamrchmnt_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amam-rachmanto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amam11rachmanto@gmail.com) 
